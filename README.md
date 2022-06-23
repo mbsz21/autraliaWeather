@@ -1,4 +1,6 @@
 
+<img src = "images/55.svg">
+
 # Projet Weather_Autralia
 
 Le premier objectif serait de prédire la variable cible : RainTomorrow. Elle signifie : a-t-il plu le jour suivant, oui ou non ? Cette colonne est Oui si la pluie pour ce jour était de 1mm ou plus.
